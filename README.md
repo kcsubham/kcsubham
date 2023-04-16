@@ -1,8 +1,5 @@
-📈 my github stats
-  
-  
-  
-  
+### My Github Stats
+
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kcsubham&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcsubham&label=Profile%20views&color=0e75b6&style=flat" alt="kcsubham" /> </p>
