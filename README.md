@@ -26,7 +26,11 @@
 
 
 ### If you want to contact me feel free to contact me
+<p>
  <a href="https://t.me/SatauroGojo"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
+  <a href="https://www.instagram.com/ashutosh_chettri_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  </p>
+  
 
 ### Known languages and tools
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
