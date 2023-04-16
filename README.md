@@ -1,6 +1,4 @@
-![
-Gojo satauro ](https://imgur.com/JcyYzCI.png)
----
+
 
 
 
