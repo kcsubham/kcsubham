@@ -8,9 +8,12 @@
 
 - Anime 
 
-- Games (Valorant, Apex Legends, Fall guys)
+- Games (Valorant, Fall guys)
 
-- Basketball
+- Cricket
+
+- Football
+
 
 ### If you want to contact me feel free to contact me
  <a href="https://t.me/SatauroGojo"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
