@@ -1,3 +1,13 @@
+### About me
+- I am a student, and self learning guy. Currently I am learning python and  front end development.
+- I am 15 years old and my aim is to be software developer
+
+
+
+
+
+
+
 ### My Github Stats
 
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kcsubham&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
