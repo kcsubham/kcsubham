@@ -11,7 +11,7 @@
 
 - Anime 
 
-- Games (Valorant, Apex Legends,Fall guys)
+- Games (Valorant, Apex Legends, Fall guys)
 
 - Basketball
 
